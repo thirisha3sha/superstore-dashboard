@@ -1,8 +1,7 @@
 
 # Superstore Analysis Dashboard
-### Dashboard link : 
 
-## Objective
+### Objective
 
 The objective is to contribute to the success of the business by utilizing data analysis techniques, especially focusing on time series analysis, to provide valuable insights and accurate sales forecasting. The goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction.
 
@@ -17,7 +16,7 @@ The superstore is looking to optimize its sales strategies and improve operation
 
  ### Description
  ### 1.Dashboard creation
- Identify the KPI's design an intuitive and visually appelaing dashboard and interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
+ Identifying the KPI's and designing an intuitive and visually appealing dashboard and interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
  ### 2.Data analysis
  Provide valuable insights to business entities regarding the effectiveness of their sales and strategies through visualization and charts.
  ### 3.Sales formatting
@@ -57,7 +56,7 @@ The superstore is looking to optimize its sales strategies and improve operation
 - Go to Home > Transform Data to open Power Query Editor.
 - In the View tab under the Data Preview section, check the "Column distribution," "Column quality," and "Column profile" options.
 ### Step 3: Handle Missing Values
-- It was observed that none of the columns except "Return","ind1","ind2" had errors or empty values.
+- It was observed that none of the columns except "Return","ind1","ind2" had errors or empty values 
 ### Step 4: Apply a Theme
 In the Report View, under the View tab, select a theme for the report.
 ### Step 5: Add Card Visuals for KPIs
