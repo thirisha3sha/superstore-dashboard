@@ -58,7 +58,7 @@ The superstore is looking to optimize its sales strategies and improve operation
 ### Step 3: Handle Missing Values
 - It was observed that none of the columns except "Return","ind1","ind2" had errors or empty values.
 ### Step 4: Apply a Theme
-In the Report View, under the View tab, select a theme for your report.
+In the Report View, under the View tab, select a theme for the report.
 ### Step 5: Add Card Visuals for KPIs
 Add three card visuals for displaying key metrics like Total Sales,Total Profit and Total qunatity.
 ### Step 6: Add Visuals for Detailed Analysis
@@ -95,3 +95,5 @@ Add three card visuals for displaying key metrics like Total Sales,Total Profit 
 ### Line Chart for Sales by Order Date and Forecasting Sales for Next 50 Days
 - **Description:** Plots sales data over time and includes a forecast for the next 50 days.
 - **Insights:** Shows historical sales trends, helps in predicting future sales, and aids in planning and inventory management.
+  ### Superstore dashoboard page 1
+  ![superstore dashboard page1](https://github.com/user-attachments/assets/303c9f0b-5f44-4438-9476-4734eecf92dc)
