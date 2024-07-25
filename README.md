@@ -21,7 +21,7 @@ The superstore is looking to optimize its sales strategies and improve operation
  Provide valuable insights to business entities regarding the effectiveness of their sales and strategies through visualization and charts.
  ### 3.Sales formatting
  Leverage historic data and apply time series analysis to genearte sales forecast for next 50 days.
- ### 4Actionable Insights and recommendation
+ ### 4.Actionable Insights and recommendation
  End goal is to share valuable insights and actionable information that can drive strategic decision making and support the supermarkets goals for growth,efficiency and customers satisfaction.
  ### Dataset Description
  ### Dataset link : https://1drv.ms/x/c/b541b271e2666b97/ER7npt-yyoJJhbteNqhQFQwBdZ95BfnXt0SLo5JCKFtD-g?e=o3xA6N
@@ -53,7 +53,7 @@ The superstore is looking to optimize its sales strategies and improve operation
 - Click on Home > Get Data > Text/CSV.
 - Select the CSV file containing the superstore sales dataset and click Load.
 ### Step 2: Open Power Query Editor
--Go to Home > Transform Data to open Power Query Editor.
+- Go to Home > Transform Data to open Power Query Editor.
 - In the View tab under the Data Preview section, check the "Column distribution," "Column quality," and "Column profile" options.
 ### Step 3: Handle Missing Values
 - It was observed that none of the columns except "Return","ind1","ind2" had errors or empty values.
@@ -62,16 +62,36 @@ In the Report View, under the View tab, select a theme for your report.
 ### Step 5: Add Card Visuals for KPIs
 Add three card visuals for displaying key metrics like Total Sales,Total Profit and Total qunatity.
 ### Step 6: Add Visuals for Detailed Analysis
-- **Area Chart Profit by Month and Year (2019, 2020):** Visualizes profit trends over time.
-- **Area Chart for Sales by Month and Year (2019, 2020):** Displays sales revenue trends.
-- **Donut Chart for Sales Payment Mode (Cards, COD, Online): **Shows distribution of sales by payment modes.
-- **Donut Chart for Sales by Segment (Home Office, Consumer, Corporate):** Illustrates sales distribution across customer segments.
-- **Map for Sales and Profit by State in the US:** Visualizes geographic distribution of sales and profit.
-- **Clustered Bar Chart for Sales by Ship Mode:** Compares sales across different shipping modes.
-- **Clustered Bar Chart for Sales by Category:** Shows sales distribution across product categories.
-- **Clustered Bar Chart for Sales by Sub-Category:** Displays sales distribution across product sub-categories.
-- **Clustered Bar Chart for Sales by State:** Compares sales figures across different states.
-- **Slicer for Analyzing Sales by Region:** Allows filtering sales data by regions (Central, East, West, South).
-- **Line Chart for Sales by Order Date and Forecasting Sales for Next 50 Days:** Plots sales data over time and forecasts future sales.
-  
- ![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+- **Area Chart Profit by Month and Year (2019, 2020):**
+       - **Description:** Visualizes the profit trends over the course of two years. The x-axis represents the months, while the y-axis represents the profit amount. Different colors or shades represent the two years.
+       - **Insights:** Helps identify profit trends, compare year-over-year performance, detect seasonality, and provide actionable insights to improve profitability.
+### Area Chart for Sales by Month and Year (2019, 2020):
+- **Description:** Displays the sales revenue trends over the same two-year period. The x-axis represents the months, and the y-axis represents the sales amount. Different colors or shades distinguish the data for each year.
+- **Insights:** Shows revenue trends, evaluates year-over-year sales performance, identifies peak sales periods, correlates with profit trends, and informs strategic planning.
+### Donut Chart for Sales Payment Mode (Cards, COD, Online):
+- **Description:** Illustrates the distribution of sales across different payment modes: Cards, Cash on Delivery (COD), and Online.
+- **Insights:** Helps understand customer payment preferences, identify the most popular payment methods, and assess the potential need to improve certain payment options.
+### Donut Chart for Sales by Segment (Home Office, Consumer, Corporate):
+- **Description:** Shows the sales distribution across different customer segments: Home Office, Consumer, and Corporate.
+- **Insights:** Provides insights into which segments are driving the most sales, helping to tailor marketing strategies and product offerings to target high-value segments effectively.
+### Map for Sales and Profit by State in the US:
+- **Description:** A geographic map that visualizes sales and profit data across different states in the US.
+- **Insights:** Highlights regional performance, identifies high and low-performing states, and helps in regional sales strategy planning and resource allocation.
+### Clustered Bar Chart for Sales by Ship Mode (Standard Class, First Class, Second Class, Same Day)
+- **Description:** Compares sales across different shipping modes: Standard Class, First Class, Second Class, and Same Day.
+- **Insights:** Helps understand the popularity and performance of different shipping options, which can guide shipping strategy and customer service improvements.
+### Clustered Bar Chart for Sales by Category (Office Supplies, Furniture, Technology)
+- **Description: **Displays sales distribution across different product categories: Office Supplies, Furniture, and Technology.
+- **Insights:** Identifies which product categories are performing best, helping in inventory management and marketing focus.
+### Clustered Bar Chart for Sales by Sub-Category (Phones, Chairs, Binders)
+- **Description:** Shows sales distribution across specific product sub-categories such as Phones, Chairs, and Binders.
+- **Insights:** Provides detailed insights into the performance of specific product lines, aiding in product development and promotional efforts.
+### Clustered Bar Chart for Sales by State
+- **Description:** Compares sales figures across different states.
+- **Insights:** Highlights the states with the highest and lowest sales, assisting in regional sales analysis and strategy development.
+### Slicer for Analyzing Sales by Region (Central, East, West, South)
+- **Description:** Allows users to filter the data by region, providing a focused view of sales performance in the Central, East, West, and South regions.
+- **Insights:** Facilitates regional comparisons, helps in understanding regional preferences and trends, and supports targeted regional strategies.
+### Line Chart for Sales by Order Date and Forecasting Sales for Next 50 Days
+- **Description:** Plots sales data over time and includes a forecast for the next 50 days.
+- **Insights:** Shows historical sales trends, helps in predicting future sales, and aids in planning and inventory management.
