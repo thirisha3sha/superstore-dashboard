@@ -1,6 +1,6 @@
 
 # Superstore Analysis Dashboard
-
+### Dashboard Link:https://github.com/thirisha3sha/superstore-dashboard/blob/main/super%20store%20sales%20dashboard.pbix
 ### Objective
 
 The objective is to contribute to the success of the business by utilizing data analysis techniques, especially focusing on time series analysis, to provide valuable insights and accurate sales forecasting. The goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction.
