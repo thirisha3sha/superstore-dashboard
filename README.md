@@ -1,5 +1,6 @@
 
 # Superstore Analysis Dashboard
+### Dashboard link : 
 
 ## Objective
 
@@ -61,10 +62,18 @@ The superstore is looking to optimize its sales strategies and improve operation
 In the Report View, under the View tab, select a theme for the report.
 ### Step 5: Add Card Visuals for KPIs
 Add three card visuals for displaying key metrics like Total Sales,Total Profit and Total qunatity.
+- **Description:** Displays key performance indicators (KPIs) such as Total Sales, Total Profit, and Total Quantity in a concise and easily digestible format.
+- **Insights:** Offers a quick overview of the overall business performance, helping stakeholders to assess the health of the business at a glance.
+### snap of KPI-Total Profit
+![profit superstore](https://github.com/user-attachments/assets/58a998ca-8ae2-4379-ac31-c21c0cc8ac98)
+### snap of KPI-Total Quantity
+![quantity superstore](https://github.com/user-attachments/assets/68e617f4-fdd2-4241-8843-849611fabe46)
+### snap of KPI-Total Sales
+![sales superstor](https://github.com/user-attachments/assets/28eeafb4-8749-4ce9-8181-b77cbe1adb19)
 ### Step 6: Add Visuals for Detailed Analysis
-- **Area Chart Profit by Month and Year (2019, 2020):**
-       - **Description:** Visualizes the profit trends over the course of two years. The x-axis represents the months, while the y-axis represents the profit amount. Different colors or shades represent the two years.
-       - **Insights:** Helps identify profit trends, compare year-over-year performance, detect seasonality, and provide actionable insights to improve profitability.
+### Area Chart Profit by Month and Year (2019, 2020):
+- **Description:** Visualizes the profit trends over the course of two years. The x-axis represents the months, while the y-axis represents the profit amount. Different colors or shades represent the two years.
+- **Insights:** Helps identify profit trends, compare year-over-year performance, detect seasonality, and provide actionable insights to improve profitability.
 ### Area Chart for Sales by Month and Year (2019, 2020):
 - **Description:** Displays the sales revenue trends over the same two-year period. The x-axis represents the months, and the y-axis represents the sales amount. Different colors or shades distinguish the data for each year.
 - **Insights:** Shows revenue trends, evaluates year-over-year sales performance, identifies peak sales periods, correlates with profit trends, and informs strategic planning.
@@ -95,5 +104,9 @@ Add three card visuals for displaying key metrics like Total Sales,Total Profit 
 ### Line Chart for Sales by Order Date and Forecasting Sales for Next 50 Days
 - **Description:** Plots sales data over time and includes a forecast for the next 50 days.
 - **Insights:** Shows historical sales trends, helps in predicting future sales, and aids in planning and inventory management.
-  ### Superstore dashoboard page 1
+### Superstore sales report 
   ![superstore dashboard page1](https://github.com/user-attachments/assets/303c9f0b-5f44-4438-9476-4734eecf92dc)
+### Superstore sales forecasting report
+  ![superstore dashboard page2](https://github.com/user-attachments/assets/a96b35bc-c238-4885-be13-0a2f48f552fb)
+### Conclusion
+The Superstore Sales Analysis Dashboard is an essential tool for optimizing sales and operations in a retail business. It provides comprehensive insights into sales trends, customer behavior, and operational efficiency through various visualizations.By analyzing sales data and customer feedback, the superstore can identify specific areas for improvement and take actionable steps to enhance overall customer satisfaction.this dashboard enables informed decision-making, inventory optimization, enhanced customer experience, and improved operational efficiency, ultimately driving business growth.
